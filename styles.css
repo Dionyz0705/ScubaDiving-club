@@ -180,6 +180,9 @@ label.logo {
         padding-left: 10px;
         font-size: 1.875rem;   
      }
+    nav {
+        height: 70px;        
+    } 
 }
 
     /*banner section*/
