@@ -176,13 +176,13 @@ label.logo {
 
 @media only screen and (max-width: 480px) {
     label.logo {        
-        line-height: 70px;        
+        line-height: 50px;        
         padding-left: 10px;
         font-size: 1.875rem;   
-     }
-    nav {
-        height: 70px;        
-    } 
+     } 
+     .checkbtn {        
+        line-height: 50px;
+    }
 }
 
     /*banner section*/
